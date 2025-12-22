@@ -8,7 +8,6 @@ if 0.0 <= w <= 100.0 and 0.0 <= h <= 100.0 :
     print(f"Diện tích của hình chữ nhật là:{dien_tich:.2f}")
 
 else:
-     print("Vui lòng nhập iá trị hợp lệ")
      print("Vui lòng nhập giá trị hợp lệ")
 
 
