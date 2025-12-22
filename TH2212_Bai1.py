@@ -9,5 +9,6 @@ if 0.0 <= w <= 100.0 and 0.0 <= h <= 100.0 :
 
 else:
      print("Vui lòng nhập iá trị hợp lệ")
+     print("Vui lòng nhập giá trị hợp lệ")
 
 
