@@ -1,7 +1,7 @@
 w = float(input(" Nhập độ dài cạnh w của hình chữ nhật:"))
 h = float(input("Nhập độ dài cạnh h của hình chữ nhật: "))
 
-if 0.0<=w and h<=100.0 :
+if 0.0 <= w <= 100.0 and 0.0 <= h <= 100.0 :
     chu_vi = (w+h)*2
     dien_tich = w*h
     print(f"Chu vi của hình chữ nhật là: {chu_vi:.2f}")
